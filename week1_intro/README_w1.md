@@ -19,18 +19,26 @@
             g(x)~= y
 
 
-**types of supervised training**
+**types of supervised training**7
+
     - regression
+
         - g returns a number
+
     - classification
+
         - the output is a category 
+
             - binary: exactly two categories (0, 1)
             - multiclass: more than 2
+
     - ranking
+
         - score/probabilities
 
 -----------------------
-**CRISP-DM**:*Cross_Industry Standard Process for Data Mining*
+**CRISP-DM**: *Cross_Industry Standard Process for Data Mining*
+
     - methodology that describes how ML projects should be organized
 
     1. Business Understanding: identify the problem and also: do we actually need ml? if yes, some number needs to be attached to the KPI
